@@ -1,4 +1,4 @@
 # ASSN
-A semi-supervised network for portrait matting
+Semi-Supervised Portrait Matting via the Collaboration of
+Teacher–Student Network and Adaptive Strategies
 
-This paper will be submitted on April 17, 2022, and the paper code will be displayed here after the official acceptance
